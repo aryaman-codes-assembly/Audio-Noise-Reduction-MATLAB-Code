@@ -116,8 +116,8 @@ This project explores practical applications of DSP, including noise modeling, d
 
 ## Author
 
-Aryaman Jha
+Aryaman Jha (along with Joahan Ashish & Aniket Jaiswar)
 
-Electronics and Telecommunication Engineering
+Electronics and Telecommunication Engineering, SPIT MUMBAI
 
 This project is available for educational and learning purposes and for curious learners :)
